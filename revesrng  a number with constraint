@@ -1,0 +1,17 @@
+int remaind;
+long reverse = 0;
+        while(x != 0){
+            remaind = x % 10;
+           
+
+            reverse = reverse * 10 + remaind ;
+            
+            x /= 10;
+        }        
+       if(reverse>=(pow(2,31)-1 )|| reverse<=pow(-2,31)){
+            return 0;
+        }else{
+            return reverse;
+        }      
+        }
+};
