@@ -1,17 +1,10 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int> num;
-
-        while (n != 0) {
-            int digit = n % 10;
-            num.push_back(digit);
-            n /= 10;
-        }
-
-        sort(num.begin(), num.end());
-
-        int sz = num.size();
-        return num[sz - 1] * num[sz - 2];
+        
+        string s = to_string(n);
+        sort(s.rbegin() , s.rend());
+        int maxProduct = (s[0]-'0')*(s[1]-'0');
+        return maxProduct;
     }
 };
