@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanjuyal/idk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryanjuyal/idk/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanjuyal/idk/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanjuyal/idk/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aryanjuyal/idk/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanjuyal/idk/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
