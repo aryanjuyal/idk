@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanjuyal/idk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryanjuyal/idk/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/aryanjuyal/idk/tree/master/0991-broken-calculator) |
+| [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanjuyal/idk/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanjuyal/idk/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aryanjuyal/idk/tree/master/0451-sort-characters-by-frequency) |
+| [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aryanjuyal/idk/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aryanjuyal/idk/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0991-broken-calculator](https://github.com/aryanjuyal/idk/tree/master/0991-broken-calculator) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanjuyal/idk/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
