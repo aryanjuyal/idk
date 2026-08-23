@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanjuyal/idk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryanjuyal/idk/tree/master/0877-stone-game) |
+| [0991-broken-calculator](https://github.com/aryanjuyal/idk/tree/master/0991-broken-calculator) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanjuyal/idk/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanjuyal/idk/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aryanjuyal/idk/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Greedy
+|  |
+| ------- |
+| [0991-broken-calculator](https://github.com/aryanjuyal/idk/tree/master/0991-broken-calculator) |
 <!---LeetCode Topics End-->
