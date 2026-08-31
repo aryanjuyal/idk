@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aryanjuyal/idk/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aryanjuyal/idk/tree/master/0451-sort-characters-by-frequency) |
 | [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aryanjuyal/idk/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/aryanjuyal/idk/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanjuyal/idk/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aryanjuyal/idk/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
