@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanjuyal/idk/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryanjuyal/idk/tree/master/3536-maximum-product-of-two-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanjuyal/idk/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryanjuyal/idk/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aryanjuyal/idk/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/aryanjuyal/idk/tree/master/0991-broken-calculator) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanjuyal/idk/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/aryanjuyal/idk/tree/master/1927-sum-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/aryanjuyal/idk/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sliding Window
 |  |
 | ------- |
