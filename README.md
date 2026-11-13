@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aryanjuyal/idk/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aryanjuyal/idk/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aryanjuyal/idk/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aryanjuyal/idk/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/aryanjuyal/idk/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/aryanjuyal/idk/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryanjuyal/idk/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -127,4 +128,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/aryanjuyal/idk/tree/master/0856-score-of-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aryanjuyal/idk/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aryanjuyal/idk/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aryanjuyal/idk/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/aryanjuyal/idk/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
